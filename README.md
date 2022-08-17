@@ -16,7 +16,7 @@ file.
 
 ### Dependencies
 
-Lcfit requires python 3.8 and the 
+This library requires python 3.8 and the 
 [TensorFlow](https://tensorflow.org),
 [TensorFlow Addons](https://www.tensorflow.org/addons),
 [numpy](https://numpy.org/), 
